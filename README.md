@@ -1,5 +1,5 @@
 # mdoatutm
-Short course on MDO
+Short course on MDO at UTM JOHOR BAHRU
 
 | duration          | Title | Agenda |
 | :---------------- | :------: | ----: |
